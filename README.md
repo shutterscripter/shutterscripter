@@ -20,6 +20,7 @@
 <br/>
 
 # 🔥 Tech Stack:
+<p align="center">
 <img src="https://img.shields.io/badge/Android-00e600?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 <img src="https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
@@ -30,7 +31,7 @@
 <img src="https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 <img src="https://img.shields.io/badge/figma-62372c?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/adobephotoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="PS">
-
+</p>
 
 # 🔥 GitHub stats:
 
