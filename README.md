@@ -10,11 +10,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="30" alt="Youtube" title="Youtube" src="./assets/link.png"/></a>
+  <a href="https://www.linkedin.com/in/jayeshshinde2001"><img width="30" alt="Linkedin" title="Linkedin" src="./assets/link.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img   width="30" alt="Twitter" title="Twitter" src="./assets/cc.png"/></a>
+  <a href="https://www.codechef.com/users/jay2272001"><img   width="30" alt="CodeChef" title="CodeChef" src="./assets/cc.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/4698" alt="Dev Pro Tips Discussion & Support Server"><img width="30"  src="./assets/dis.png"/></a>
+  <a href="https://discord.gg/jay_shinde#4698" alt="Dev Pro Tips Discussion & Support Server"><img width="30"  src="./assets/dis.png"/></a>
 </p>
 
 <br/>
