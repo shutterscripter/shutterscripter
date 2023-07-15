@@ -33,7 +33,7 @@
 <!-- GitHub Readme Streak Stats -->
 <p align="center">
   <a href="https://github.com/shutterscripter">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayesh's streak" src="https://streak-stats.demolab.com/?user=jayesh2272001&theme=dark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayesh's streak" src="https://streak-stats.demolab.com/?user=shutterscripter&theme=dark&hide_border=true"/>
   </a>
 </p>
 
