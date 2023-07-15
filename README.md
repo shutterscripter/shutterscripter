@@ -32,14 +32,14 @@
 
 <!-- GitHub Readme Streak Stats -->
 <p align="center">
-  <a href="https://github.com/jayesh2272001">
+  <a href="https://github.com/shutterscripter">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayesh's streak" src="https://streak-stats.demolab.com/?user=jayesh2272001&theme=dark&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jayesh2272001"><img alt="Jayesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jayesh2272001&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/jayesh2272001"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh2272001&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/shutterscripter"><img alt="Jayesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shutterscripter&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/shutterscripter"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shutterscripter&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
