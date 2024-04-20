@@ -44,22 +44,6 @@
 <br>
 <br>
 
-# 🔥 Tech Stack:
-<p align="center">
-<img src="https://img.shields.io/badge/Android-00e600?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-<img src="https://img.shields.io/badge/flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/dart-4597ce?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/hive-0000FF?style=for-the-badge&logo=hive&logoColor=white" alt="Hive">
-<img src="https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/python-f6875as?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/sqlite-32de89?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
-<img src="https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-<img src="https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-<img src="https://img.shields.io/badge/figma-62372c?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/adobephotoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="PS">
-</p>
-
 # 🔥 GitHub stats:
 
 <!-- GitHub Readme Streak Stats -->
