@@ -1,6 +1,6 @@
 <div align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Hi%2C+I'm+ShutterScripter;Mobile+%7C+Backend+%7C+DevOps+Developer;Talk+is+Cheap%2C+Show+me+the+Code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Hi%2C+I'm+ShutterScripter;Mobile+%7C+Backend+%7C+DevOps;Talk+is+Cheap%2C+Show+me+the+Code" alt="Jayesh Shinde" /></a>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
