@@ -21,6 +21,9 @@
 
 ## Current Projects
 
+- 🖥️ **[axessh](https://github.com/shutterscripter/axessh)** - Native macOS menu bar app for managing SSH connections and SFTP file browsing with SwiftUI
+- 🎯 **[deadsniper](https://github.com/shutterscripter/deadsniper)** - CLI tool that crawls websites and finds broken links (4xx/5xx, soft 404s)
+- ⚡ **[url_shortner](https://github.com/shutterscripter/golang_projects/tree/main/url_shortner)** - URL shortening service built with Go
 - 🔍 **[data-peek](https://github.com/shutterscripter/data-peek)** - Minimal, fast database client desktop app - peek at your data without the bloat
 - 🔒 **[texas_vpn](https://github.com/shutterscripter/texas_vpn)** - Modern, secure VPN application with beautiful UI built with Flutter
 - 📞 **[dialtrack](https://github.com/shutterscripter/dialtrack)** - Smart call log analyzer and automated caller - track, summarize, and automate your calls
